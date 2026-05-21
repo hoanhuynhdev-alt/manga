@@ -1,0 +1,192 @@
+{
+  "filter": {
+    "status": [
+      {
+        "title": "All",
+        "key": ""
+      },
+      {
+        "title": "Ongoing",
+        "key": "ongoing"
+      },
+      {
+        "title": "Completed",
+        "key": "completed"
+      },
+      {
+        "title": "Hiatus",
+        "key": "hiatus"
+      },
+      {
+        "title": "Dropped",
+        "key": "dropped"
+      }
+    ],
+    "type": [
+      {
+        "title": "All",
+        "key": ""
+      },
+      {
+        "title": "Manhwa",
+        "key": "manhwa"
+      },
+      {
+        "title": "Manhua",
+        "key": "manhua"
+      },
+      {
+        "title": "Mangatoon",
+        "key": "manga"
+      }
+    ],
+    "sort": [
+      {
+      "title":"Latest Update",
+      "key":"latest"
+      },
+      {
+        "title":"Popular",
+      "key":"popular"
+      },
+      {
+        "title":"Rating",
+      "key":"rating"
+      },
+      {
+        "title":"A-Z",
+      "key":"title"
+      },
+      {
+        "title":"Newest",
+      "key":"newest"
+      }
+    ],
+    "genres": [
+      {
+        "title": "Action",
+        "key": "action"
+      },
+      {
+        "title": "Adventure",
+        "key": "adventure"
+      },
+      {
+        "title": "Comedy",
+        "key": "comedy"
+      },
+      {
+        "title": "Crazy MC",
+        "key": "crazy-mc"
+      },
+      {
+        "title": "Demon",
+        "key": "demon"
+      },
+      {
+        "title": "Drama",
+        "key": "drama"
+      },
+      {
+        "title": "Dungeons",
+        "key": "dungeons"
+      },
+      {
+        "title": "Fantasy",
+        "key": "fantasy"
+      },
+      {
+        "title": "Game",
+        "key": "game"
+      },
+      {
+        "title": "Genius MC",
+        "key": "genius-mc"
+      },
+      {
+        "title": "Isekai",
+        "key": "isekai"
+      },
+      {
+        "title": "Kuchikuchi",
+        "key": "kuchikuchi"
+      },
+      {
+        "title": "Magic",
+        "key": "magic"
+      },
+      {
+        "title": "Martial Arts",
+        "key": "martial-arts"
+      },
+      {
+        "title": "Murim",
+        "key": "murim"
+      },
+      {
+        "title": "Mystery",
+        "key": "mystery"
+      },
+      {
+        "title": "Necromancer",
+        "key": "necromancer"
+      },
+      {
+        "title": "Overpowered",
+        "key": "overpowered"
+      },
+      {
+        "title": "Regression",
+        "key": "regression"
+      },
+      {
+        "title": "Reincarnation",
+        "key": "reincarnation"
+      },
+      {
+        "title": "Revenge",
+        "key": "revenge"
+      },
+      {
+        "title": "Romance",
+        "key": "romance"
+      },
+      {
+        "title": "School Life",
+        "key": "school-life"
+      },
+      {
+        "title": "Sci-fi",
+        "key": "sci-fi"
+      },
+      {
+        "title": "Shoujo",
+        "key": "shoujo"
+      },
+      {
+        "title": "Shounen",
+        "key": "shounen"
+      },
+      {
+        "title": "System",
+        "key": "system"
+      },
+      {
+        "title": "Tower",
+        "key": "tower"
+      },
+      {
+        "title": "Tragedy",
+        "key": "tragedy"
+      },
+      {
+        "title": "Villain",
+        "key": "villain"
+      },
+      {
+        "title": "Violence",
+        "key": "violence"
+      }
+    ]
+  }
+}
